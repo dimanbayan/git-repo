@@ -2,3 +2,5 @@ System.out.println("Hello, world!;");
 System.out.println("Hello, everybody!;");
 System.out.println("Hello, me!;");
 System.out.println("Hi, everyone!;");
+System.out.println("Hello, my dear friend!;");
+System.out.println("Glad to see you!;");
